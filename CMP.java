@@ -1,3 +1,3 @@
-public interface CMP<T>{
+public interface CMP{
     boolean superiore (CMP x);
 }
