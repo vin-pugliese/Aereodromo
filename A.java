@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public abstract class A implements CMP<A>{
+public abstract class A implements CMP{
 
     private String id_code;
 
